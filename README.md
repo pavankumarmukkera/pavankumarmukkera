@@ -1,5 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/22101710/ReadMe.md)
-# 💫 About Me:
 🚀 Software Engineer | MSc Management with Data Analytics @ BPP University | @ Technical Spaces | Azure | DevOps | AI/ML Enthusiast | Open-Source Contributor
 
 
