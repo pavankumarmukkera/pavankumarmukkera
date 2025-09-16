@@ -1,66 +1,76 @@
-# 🚀 Pavan Kumar Mukkera  
+# 👨‍💻 Pavan Kumar Mukkera  
 
-**Software Engineer | Data Analyst | MSc Management with Data Analytics @ BPP University | Azure & DevOps | AI/ML Enthusiast | Open-Source Contributor**
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-mukkera-b19908188/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/pavankumarmukkera)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mukkera474@gmail.com)  
+**Software Engineer | Data Analyst | MSc Management with Data Analytics @ BPP University, London**  
+*Azure | DevOps | AI/ML | Cloud-Native Solutions | Community Leadership | Open-Source Contributor*  
 
 ---
 
-## 💻 Tech Stack  
+## 🧑‍💼 Professional Snapshot  
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-
-**AI/ML & Data Science**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Azure-0072C6?logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?logo=githubactions&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+🔹 **Hybrid Profile**: I bring the best of **Software Engineering** and **Community Leadership** — delivering scalable solutions while empowering developer ecosystems.  
+🔹 **Tech Expertise**: Skilled in **Python, AI/ML, Azure, and DevOps pipelines** with a strong foundation in data-driven decision making.  
+🔹 **Community Impact**: Organized 200+ events and mentored 1,000+ developers across India & UK, collaborating with **Microsoft, Reskilll, and global tech communities**.  
+🔹 **Innovation Mindset**: Focused on using technology for business transformation, from **BI dashboards** to **AI for Social Good**.  
 
 ---
 
-## 📊 GitHub Stats  
+## 💻 Technical Expertise  
 
-![](https://github-readme-stats.vercel.app/api?username=pavankumarmukkera&theme=dark&hide_border=false&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarmukkera&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarmukkera&layout=compact&theme=dark&hide_border=false)  
+- **Programming & Frameworks**: Python, SQL, Django, React, HTML/CSS  
+- **AI/ML & Data Science**: TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision  
+- **Cloud & DevOps**: Microsoft Azure, AWS, GitHub Actions, Docker, Power BI  
+- **Professional Skills**: Stakeholder Management, Program Leadership, Go-to-Market Strategy, UX Research  
 
 ---
 
-## 🏆 Achievements & Contributions  
+## 🏆 Achievements & Recognition  
 
-- 🎤 Speaker at **Azure + Agents: The Power Combo for Developers** (2025)  
-- 📈 Microsoft-recognized **100DaysOfAzure** Contributor (2023)  
-- 👥 Built & mentored **1,000+ developer community members** with Reskilll & Microsoft  
-- 🧑‍💻 Delivered **200+ technical sessions, podcasts, and hackathons** across India & UK  
-- 🤝 Freelance Community Manager for **Possobuild** & **The Youth Talks** – driving 40%+ engagement growth  
-- 🔬 AI/ML Projects: **Hateful Meme Detection (VisualBERT/CLIP)**, **Smart Farming (CNN + IoT)**, **Sentiment Analysis on Traveller Reviews**  
+### 🌐 Community Leadership  
+- 🎤 **Speaker** at *Azure + Agents: The Power Combo for Developers* (2025).  
+- 🌍 **Azure Community Lead (Microsoft & Reskilll)**: Expanded the Azure Developer Community from 30 to 150+ cities, engaging 2M+ developers via 1,500+ online and 800+ offline events.  
+- 👥 Built partnerships with **Microsoft, Adobe, Intel, and FICCI** to support large-scale developer programs.  
+- 🤝 Freelance Community Manager (*Possobuild, The Youth Talks*): Drove **40%+ growth** in engagement and visibility.  
+
+### 💻 Software Engineering  
+- 📊 **Bizaek.com**: Designed BI dashboards & automated workflows, improving efficiency by **30%** and reducing failures by **15%**.  
+- 🔬 **AI/ML Projects**:  
+  - *Hateful Meme Detection*: Multimodal Deep Learning with VisualBERT & CLIP.  
+  - *Smart Farming System*: IoT + CNN for automated crop monitoring.  
+  - *Sentiment Analysis*: SVM with rule-based NLP for traveller reviews.  
+- 🏅 **Recognition**: Microsoft-recognized **100DaysOfAzure** contributor (2023).  
 
 ---
 
 ## 📂 Featured Projects  
 
-- [🔗 Fake News Detection](https://github.com/pavankumarmukkera/Fake_News_Detection)  
-- [🔗 Hateful Meme Detection (Multimodal Deep Learning)](https://github.com/pavankumarmukkera) *(repo link placeholder)*  
-- [🔗 Smart Farming System (IoT + CNN)](https://github.com/pavankumarmukkera) *(repo link placeholder)*  
+- [Fake News Detection (ML Pipeline)](https://github.com/pavankumarmukkera/Fake_News_Detection)  
+- [Hateful Meme Detection (VisualBERT/CLIP)](https://github.com/pavankumarmukkera) *(repo placeholder)*  
+- [Smart Farming System (IoT + CNN)](https://github.com/pavankumarmukkera) *(repo placeholder)*  
+- [Remote Sensing with BERT & GPT-3](https://github.com/pavankumarmukkera) *(repo placeholder)*  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=pavankumarmukkera&icon=0&color=0)](https://visitcount.itsvg.in)  
+## 📊 GitHub Insights  
+
+![](https://github-readme-stats.vercel.app/api?username=pavankumarmukkera&theme=transparent&show_icons=true&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarmukkera&theme=transparent&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarmukkera&layout=compact&theme=transparent&hide_border=false)  
 
 ---
+
+## 🎓 Education  
+
+- **MSc, Management with Data Analytics** – BPP University, London (2024–2026)  
+- **B.Tech, Information Technology** – CMR College of Engineering & Technology, Hyderabad (2021–2024)  
+
+---
+
+## 🔗 Connect With Me  
+
+📧 [Mukkera474@gmail.com](mailto:Mukkera474@gmail.com)  
+🌍 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-mukkera-b19908188/)  
+💻 [GitHub](https://github.com/pavankumarmukkera)  
+
+---
+
+⭐ *“Code. Lead. Inspire. — Driving impact through technology and community.”*  
