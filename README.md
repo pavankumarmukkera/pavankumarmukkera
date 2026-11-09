@@ -237,14 +237,14 @@ Key areas:
 - Community Activity Tracking
 - Digital Operations
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/community-engagement-tracker)
+🔗 [View Repository](https://github.com/pavankumarmukkera/power-platform-community-engagement)
 
 #### 📚 Microsoft Learning
 **Microsoft Technologies | Cloud | Power Platform**
 
 A repository dedicated to exploring Microsoft technologies, technical concepts and hands-on learning.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/MICROSOFT-LEARNING)
+🔗 [View Repository](https://github.com/pavankumarmukkera/microsoft-technology-learning)
 
 ---
 
@@ -255,49 +255,49 @@ A repository dedicated to exploring Microsoft technologies, technical concepts a
 
 A machine learning project exploring automated fake news detection through natural language processing.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/Fake_News_Detection)
+🔗 [View Repository](https://github.com/pavankumarmukkera/fake-news-detection-ml)
 
 #### 👤 Face Verification Attendance System
 **Python | Computer Vision | Face Recognition**
 
 A face verification-based attendance system exploring automated identity verification and attendance management.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/Face_Verification_based_Attendance_system)
+🔗 [View Repository](https://github.com/pavankumarmukkera/employee-attendance-management)
 
 #### 😴 Driver Drowsiness Detection
 **Computer Vision | Detection Systems**
 
 A detection project focused on identifying signs of driver drowsiness for road safety applications.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/Drowsiness-project)
+🔗 [View Repository](https://github.com/pavankumarmukkera/driver-safety-detection-system)
 
 #### 🧠 Gemini LLM
 **Python | Jupyter Notebook | Generative AI**
 
 Exploring large language models and generative AI concepts using Gemini.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/Gemini-LLM)
+🔗 [View Repository](https://github.com/pavankumarmukkera/generative-ai-gemini-project)
 
 #### 🖼️ Image Enhancement
 **Python | Image Processing | Jupyter Notebook**
 
 Exploring image enhancement and digital image processing techniques.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/Image-Enchancement)
+🔗 [View Repository](https://github.com/pavankumarmukkera/image-enhancement-processing)
 
 #### 🌱 Smart Agriculture
 **Agriculture Technology | Software Development**
 
 Exploring technology-driven approaches to agriculture monitoring and management.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/smart-agriculture)
+🔗 [View Repository](https://github.com/pavankumarmukkera/smart-agriculture-analytics)
 
 #### 🔐 Stranger Detection
 **Security Technology | Detection Systems**
 
 Exploring the identification of unauthorised individuals using detection and recognition technologies.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/strangerDetection)
+🔗 [View Repository](https://github.com/pavankumarmukkera/security-monitoring-detection)
 
 ---
 
@@ -308,21 +308,21 @@ Exploring the identification of unauthorised individuals using detection and rec
 
 Exploring cloud deployment, development workflows and DevOps concepts.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/oci-devops-pipeline)
+🔗 [View Repository](https://github.com/pavankumarmukkera/cloud-devops-cicd-pipeline)
 
 #### ☁️ Azure Account Termination Guide
 **Microsoft Azure | Cloud Management**
 
 A step-by-step guide supporting students in safely terminating Azure accounts after technical community events.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/azure-account-termination-guide)
+🔗 [View Repository](https://github.com/pavankumarmukkera/azure-cloud-management-guide)
 
 #### 💰 Automated Payroll
 **PHP | Business Process Automation**
 
 A software project exploring payroll-related operations and automation.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/automated-payroll)
+🔗 [View Repository](https://github.com/pavankumarmukkera/employee-payroll-management)
 
 ---
 
@@ -333,21 +333,21 @@ A software project exploring payroll-related operations and automation.
 
 A public playbook documenting a Microsoft Hyderabad technical workshop focused on AI agents.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/ai-agents-in-action-event)
+🔗 [View Repository](https://github.com/pavankumarmukkera/ai-agents-community-workshop)
 
 #### 🌍 Done and Dusted
 **JavaScript | Web Development**
 
 A web development project exploring practical application development.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/done-and-dusted)
+🔗 [View Repository](https://github.com/pavankumarmukkera/service-booking-management-system)
 
 #### 🏢 Done and Dusted Hertfordshire
 **HTML | Web Development**
 
 A website development project focused on building an online presence.
 
-🔗 [View Repository](https://github.com/pavankumarmukkera/doneanddusted-hertfordshire)
+🔗 [View Repository](https://github.com/pavankumarmukkera/cleaning-services-business-portal)
 
 #### 💻 Personal GitHub Portfolio
 **Web Development | Technical Portfolio**
